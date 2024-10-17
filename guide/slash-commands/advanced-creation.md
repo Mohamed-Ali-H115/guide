@@ -1,4 +1,4 @@
-# Advanced command creation
+H Advanced command creation
 
 The examples we've covered so far have all been fairly simple commands, such as `ping`, `server`, and `user` which all have standard static responses. However, there's much more you can do with the full suite of slash command tools!
 
